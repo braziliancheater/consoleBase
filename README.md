@@ -1,6 +1,6 @@
 # consoleBase
 
-i made this base while drunk for a friend who is dumb af, it was also made like 3 am while drunk so dont expect nothing great.
+i made this base while drunk for a friend who is dumb af, it was also made like 3 am so dont expect smth great.
 i decided to release it here cuz it look kinda good for someone that is learning? and i also need more repos lol
 enjo!
 
