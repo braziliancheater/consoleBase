@@ -1,17 +1,14 @@
-# consoleBase
+# minecraft console base 🗺️
 
-i made this base while drunk for a friend who is dumb af, it was also made like 3 am so dont expect smth great.
-i decided to release it here cuz it look kinda good for learning or skidding? and i also need more repos lol
-enjoy!
+primeiramente esse programa foi feito de maneira simples de proposito e todos os creditos foram devidamente incluidos.
 
 ![demo-brazilian](https://i.imgur.com/vSlYLkZ.png)
 
-## what does it have?
+o objetivo principal foi criar uma base simples que so procura pelo nome da janela LWJGL e caso esteja aberto ou fechado notifica o usuario, e so pelo lulz caso a janela esteja aberta o programa exibe a unica opção que eu decidi incluir que e um self-delete. a base foi feita para um amigo para que ele pudesse aprender o basico, não levem nada escrito a serio.
 
-1. bad code.
-2. xor because why not.
-3. a simple example of a selfdelete if you want to use it idk its just a example.
-4. a checker to see if Minecraft is open
-5. every single line is commented so you all can understand it.
+## conteudo
 
-brazilian ~
+1. codigo mal otimizado
+2. algumas das strings tem xor.
+3. uma implementação rudimentar de um self-delete.
+4. todas as linhas estão comentadas para facil localização.
